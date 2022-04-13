@@ -1,6 +1,6 @@
 ## Team Profile Generator
 
-![ScreenShot](./images/MyTeam.png)
+![ScreenShot](./images/MyTeam.png)(https://youtu.be/VAuRl4jvOwE)
 
 # Description
 
